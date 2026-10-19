@@ -1,21 +1,57 @@
-# 💫 About Me:
-I am Taha Ali Abbasi, a student at Benazir Bhutto Shaheed University Lyari (BBSUL) in Karachi, and also part of the Governor's Initiative for Artificial Intelligence and Cloud Computing (GIAIC). I'm diving into web development and have hands-on experience with HTML, CSS, JS, TS, Tailwind CSS, and Next.js. I also dabble in UI/UX design using Figma. On the AI front, I've worked with Python, FastAPI, Open AI agent SDK, and Chatkit for building AI agents, specifically for SDD spec kit and spec kit plus. Excited to connect and learn more!
+# Taha Ali Abbasi
 
+**Web Developer | AI Enthusiast | BSIT Student**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Taha Ali Abbasi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahaaliabbasi333@gmail.com) 
+I'm a BSIT student at **Benazir Bhutto Shaheed University Lyari (BBSUL), Karachi**, and a participant in the **Governor's Initiative for Artificial Intelligence and Cloud Computing (GIAIC)**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=TahaAliAbbasi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=TahaAliAbbasi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=TahaAliAbbasi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm interested in building modern web applications, developing AI-powered solutions, and applying Spec-Driven Development (SDD) to software engineering. My current focus includes frontend development, AI agents, and creating practical, user-friendly digital experiences.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TahaAliAbbasi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Connect
+
+- **LinkedIn:** [Taha Ali Abbasi](https://www.linkedin.com/)
+- **Email:** [tahaaliabbasi333@gmail.com](mailto:tahaaliabbasi333@gmail.com)
+- **GitHub:** [@TahaAliAbbasi](https://github.com/TahaAliAbbasi)
+
+## Technical Skills
+
+**Frontend Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**AI & Backend Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Development-555555?style=flat-square)
+
+## Current Focus
+
+- Building responsive web applications with React and Next.js.
+- Developing AI agents using Python, FastAPI, and the OpenAI Agents SDK.
+- Exploring ChatKit and AI-powered user experiences.
+- Practicing Spec-Driven Development with Spec Kit and Spec Kit Plus.
+- Improving UI/UX design skills with Figma.
+
+## Education
+
+- **BS Information Technology** — Benazir Bhutto Shaheed University Lyari (BBSUL), Karachi
+- **Governor's Initiative for Artificial Intelligence and Cloud Computing (GIAIC)** — Ongoing
 
 ---
-[![](https://komarev.com/ghpvc/?username=TahaAliAbbasi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm open to **collaboration, internship opportunities, and projects** that help me grow as a developer and contribute to meaningful software solutions.
